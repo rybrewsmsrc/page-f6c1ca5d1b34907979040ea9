@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ngrspm.cn/sitemap.xml

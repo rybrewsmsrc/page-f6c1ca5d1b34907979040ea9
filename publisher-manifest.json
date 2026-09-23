@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3d7b34a4b548bfe161e89034",
+  "owner": "rybrewsmsrc",
+  "repo": "page-f6c1ca5d1b34907979040ea9",
+  "title": "Dolphin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f6c1ca5d1b34907979040ea9",
+      "a": "Dolphin",
+      "b": "机场官网线路发布页",
+      "entity": "Dolphin",
+      "brand": "Dolphin",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1eeb0edb7e2cf4523c2842bee74f713ba63ef40bb86e4a36120b4d80f62d08fc",
+      "content": {
+        "primary_entity": "Dolphin",
+        "keyword1": "Dolphin",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备订阅与线路选择设计，提供基础版、旗舰版与团队版三档套餐，月付或年付均可灵活切换，适合个人日常浏览、流媒体观看及团队协作场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅与线路灵活选择",
+          "AI_HERO_INTRO": "Dolphin 面向需要跨设备使用网络加速的用户，提供从基础版到团队版的分层套餐。订阅周期可按月或按年，设备数量与流量额度随套餐逐级提升，旗舰版与团队版还包含专线优化和优先支持。",
+          "AI_VISUAL_TITLE": "Dolphin 订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "支持多台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "根据设备数量与流量需求匹配套餐，可以减少后续调整成本。",
+          "AI_FEATURE_TITLE_1": "按设备量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数选择更合适。",
+          "AI_FEATURE_TITLE_2": "按流量定套餐",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量匹配。",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_FEATURE_TEXT_3": "年付价格为月付的十个月左右，长期使用可选年付降低月均支出。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，按系统选择并参考对应配置文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点权益上逐级提升，可结合预算与使用场景对比。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配，再完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间挑选。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端适配要求，再决定订阅周期。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成后即可在设备上使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Dolphin 支持哪些设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，超出数量需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_2": "月付和年付哪种更划算？",
+          "AI_FAQ_ANSWER_2": "年付价格约为十个月月付费用，长期使用年付月均成本更低；短期或不确定使用时长可先选月付。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置入口，粘贴订阅链接或导入配置文件，保存后刷新节点列表即可。具体步骤参考对应客户端文档。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量更多、支持 5 台设备，并包含流媒体解锁、IPLC 专线优化和优先工单支持；基础版适合设备少、用量低的场景。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量和 20 台设备支持，适合多人协作或设备较多的小型团队，并包含企业定制路由与专属客户经理。",
+          "AI_CLOSING_TITLE": "选择合适套餐",
+          "AI_CLOSING_TEXT": "按设备数与流量需求挑选套餐，再参考客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ngrspm.cn",
+    "host": "ngrspm.cn"
+  },
+  "file_hashes": {
+    "index.html": "e8b348fe0c5b079e289d61331ff255bdf79e56b45cfc337938dfed31d0440938",
+    "sitemap.xml": "33e2aee559daf1eda9bc6c47c9e30e3fe147119a2c9988b5fbd0d49538338c2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "303c3368e0d9575b82e010e32d28d722e599627c45a9772e99514aaa9cbe0db7",
+    "robots.txt": "16e098ff51eb127048c0ece0e2515d06097784479ef14d6c0d429b42b964fe42",
+    "da17a91e9f9781fad427ebf854fcc922.txt": "5e39023916f977ab7c97b17dd0547f9e537f6dd3f06210adb59e8c2ef1ab0255"
+  },
+  "revision": "e6e276263c802e5b2b6872b3720e48f6c27332bbe490dc0982c592de05480dd1"
+}
